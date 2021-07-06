@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PitBullTaxi/static/css/main.549999d0.chunk.css",
+    "main.js": "/PitBullTaxi/static/js/main.048133f8.chunk.js",
+    "main.js.map": "/PitBullTaxi/static/js/main.048133f8.chunk.js.map",
+    "runtime-main.js": "/PitBullTaxi/static/js/runtime-main.334aa625.js",
+    "runtime-main.js.map": "/PitBullTaxi/static/js/runtime-main.334aa625.js.map",
+    "static/js/2.fbfc3ce0.chunk.js": "/PitBullTaxi/static/js/2.fbfc3ce0.chunk.js",
+    "static/js/2.fbfc3ce0.chunk.js.map": "/PitBullTaxi/static/js/2.fbfc3ce0.chunk.js.map",
+    "index.html": "/PitBullTaxi/index.html",
+    "static/css/main.549999d0.chunk.css.map": "/PitBullTaxi/static/css/main.549999d0.chunk.css.map",
+    "static/js/2.fbfc3ce0.chunk.js.LICENSE.txt": "/PitBullTaxi/static/js/2.fbfc3ce0.chunk.js.LICENSE.txt",
+    "static/media/logo.5ada3645.png": "/PitBullTaxi/static/media/logo.5ada3645.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.334aa625.js",
+    "static/js/2.fbfc3ce0.chunk.js",
+    "static/css/main.549999d0.chunk.css",
+    "static/js/main.048133f8.chunk.js"
+  ]
+}
