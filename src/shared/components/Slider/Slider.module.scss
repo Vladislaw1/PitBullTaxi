@@ -1,33 +1,42 @@
-.slider{
+.slider {
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   //padding: 40px 0;
 }
-.image{
+
+.image {
   width: 100%;
-  height: 600px;
+  height: 350px;
+
+  @media screen and (min-width: 768px) {
+    height: 600px;
+  }
 }
-.nextImg{
+
+.nextImg {
   position: absolute;
   left: 10px;
   z-index: 10;
   cursor: pointer;
 }
-.prevImg{
+
+.prevImg {
   position: absolute;
   z-index: 10;
   right: 10px;
   cursor: pointer;
 }
-.sliderContent{
+
+.sliderContent {
   width: 100%;
   position: relative;
 }
-.textSlider{
+
+.textSlider {
   color: white;
-  background: rgba(0,0,0,.4);
+  background: rgba(0, 0, 0, .4);
   padding: 15px;
   border-radius: 5px;
   position: absolute;

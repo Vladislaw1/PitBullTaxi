@@ -2,6 +2,7 @@ import React from 'react';
 
 import styles from "./Header.module.scss"
 import Logo from "../../../shared/components/Logo";
+import ListContact from "../ListContact";
 
 function Header(props) {
     return (
@@ -13,17 +14,7 @@ function Header(props) {
                 <button>Записаться</button>
             </div>
             <div>
-                <ul>
-                    <li>
-                        <a href="tel:0972944469"> 0972944469</a>
-                    </li>
-                    <li>
-                        <a href="tel:067113016"> 067113016</a>
-                    </li>
-                    <li>
-                        <a href="tel:0636546393"> 0636546393</a>
-                    </li>
-                </ul>
+                <ListContact/>
             </div>
         </header>
     );
