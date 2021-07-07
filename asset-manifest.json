@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/PitBullTaxi/static/css/main.549999d0.chunk.css",
-    "main.js": "/PitBullTaxi/static/js/main.048133f8.chunk.js",
-    "main.js.map": "/PitBullTaxi/static/js/main.048133f8.chunk.js.map",
+    "main.css": "/PitBullTaxi/static/css/main.fac96820.chunk.css",
+    "main.js": "/PitBullTaxi/static/js/main.6026f19b.chunk.js",
+    "main.js.map": "/PitBullTaxi/static/js/main.6026f19b.chunk.js.map",
     "runtime-main.js": "/PitBullTaxi/static/js/runtime-main.334aa625.js",
     "runtime-main.js.map": "/PitBullTaxi/static/js/runtime-main.334aa625.js.map",
-    "static/js/2.fbfc3ce0.chunk.js": "/PitBullTaxi/static/js/2.fbfc3ce0.chunk.js",
-    "static/js/2.fbfc3ce0.chunk.js.map": "/PitBullTaxi/static/js/2.fbfc3ce0.chunk.js.map",
+    "static/js/2.ba91bb10.chunk.js": "/PitBullTaxi/static/js/2.ba91bb10.chunk.js",
+    "static/js/2.ba91bb10.chunk.js.map": "/PitBullTaxi/static/js/2.ba91bb10.chunk.js.map",
     "index.html": "/PitBullTaxi/index.html",
-    "static/css/main.549999d0.chunk.css.map": "/PitBullTaxi/static/css/main.549999d0.chunk.css.map",
-    "static/js/2.fbfc3ce0.chunk.js.LICENSE.txt": "/PitBullTaxi/static/js/2.fbfc3ce0.chunk.js.LICENSE.txt",
-    "static/media/logo.5ada3645.png": "/PitBullTaxi/static/media/logo.5ada3645.png"
+    "static/css/main.fac96820.chunk.css.map": "/PitBullTaxi/static/css/main.fac96820.chunk.css.map",
+    "static/js/2.ba91bb10.chunk.js.LICENSE.txt": "/PitBullTaxi/static/js/2.ba91bb10.chunk.js.LICENSE.txt",
+    "static/media/city.41024a85.png": "/PitBullTaxi/static/media/city.41024a85.png",
+    "static/media/curort.d9c9ffcb.png": "/PitBullTaxi/static/media/curort.d9c9ffcb.png",
+    "static/media/granica.e455a34b.png": "/PitBullTaxi/static/media/granica.e455a34b.png",
+    "static/media/kombi.0575e379.png": "/PitBullTaxi/static/media/kombi.0575e379.png",
+    "static/media/logo.5ada3645.png": "/PitBullTaxi/static/media/logo.5ada3645.png",
+    "static/media/passatB8.ba5af11d.png": "/PitBullTaxi/static/media/passatB8.ba5af11d.png",
+    "static/media/renault-trafic.76050294.png": "/PitBullTaxi/static/media/renault-trafic.76050294.png",
+    "static/media/slider(2).d9f9fcc7.jpg": "/PitBullTaxi/static/media/slider(2).d9f9fcc7.jpg",
+    "static/media/slider(3).8e1c18e2.jpg": "/PitBullTaxi/static/media/slider(3).8e1c18e2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.334aa625.js",
-    "static/js/2.fbfc3ce0.chunk.js",
-    "static/css/main.549999d0.chunk.css",
-    "static/js/main.048133f8.chunk.js"
+    "static/js/2.ba91bb10.chunk.js",
+    "static/css/main.fac96820.chunk.css",
+    "static/js/main.6026f19b.chunk.js"
   ]
 }
