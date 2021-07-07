@@ -1,0 +1,9 @@
+.fixedBtn{
+  position: fixed;
+  right: 30px;
+  bottom: 50px;
+  @media screen and (min-width: 768px){
+    right: 60px;
+    bottom: 70px;
+  }
+}

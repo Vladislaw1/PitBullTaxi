@@ -7,9 +7,9 @@ import styles from "./ListContactItem.module.scss"
 
 function ListContactItem({contact}) {
     return (
-        <li>
-            <Kievstar className={styles.icon}/>
-            <a href={contact.href}>{contact.number}</a>
+        <li className={styles.contactListItem}>
+            {/*<Kievstar className={styles.icon}/>*/}
+            <a href={contact.href} className={styles.contactListItemLink}>{contact.number}</a>
         </li>
     );
 }

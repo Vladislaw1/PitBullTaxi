@@ -2,3 +2,16 @@
   width: 42px;
   height: 42px;
 }
+.contactListItem{
+  &:not(:last-child){
+    margin-right: 15px;
+  }
+}
+.contactListItemLink{
+  text-decoration: none;
+  color: darkorange;
+  &:hover{
+    color: yellow;
+    font-style: italic;
+  }
+}

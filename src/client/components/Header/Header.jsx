@@ -13,7 +13,7 @@ function Header(props) {
             <div>
                 <button>Записаться</button>
             </div>
-            <div>
+            <div className={styles.contactList}>
                 <ListContact/>
             </div>
         </header>

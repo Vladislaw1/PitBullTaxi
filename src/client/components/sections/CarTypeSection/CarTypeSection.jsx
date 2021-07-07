@@ -15,7 +15,7 @@ function CarTypeSection(props) {
         )
     })
     return (
-        <section style={{padding:"40px 0px"}}>
+        <section className={styles.carSection}>
             <h2>Выберите авто которое подойдёт вам лучше?</h2>
             <p>Вы хотите перевезти что-то большое , или же проехать с комфортом в любую точку Украины?<br/>Тогда мы c радостью вам поможем  </p>
             <div className={styles.listTypeCar}>{murkupCar}</div>

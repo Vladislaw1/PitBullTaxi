@@ -8,11 +8,13 @@ import InfoSections from "../client/components/sections/InfoSections";
 import Slider from "../shared/components/Slider";
 import CarTypeSection from "../client/components/sections/CarTypeSection";
 
+import styles from "./MainPage.module.scss"
+
 function MainPage(props) {
     return (
         <>
             <Header/>
-            <button style={{position:"absolute",right:"50px",bottom:"100px"}}>Тел</button>
+            <button className={styles.fixedBtn}>Тел</button>
             <main>
                 <Slider/>
                 <CarTypeSection/>
