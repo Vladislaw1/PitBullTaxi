@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background: #282c34;
+}
+
+.socialList {
+  display: flex;
+  list-style: none;
+}
+
+.socialListItem {
+  color: darkorange;
+  font-weight: bold;
+  :hover{
+    color: white;
+    font-size: 16px;
+  }
+  &:not(:last-child) {
+    margin-right: 15px;
+  }
+}
