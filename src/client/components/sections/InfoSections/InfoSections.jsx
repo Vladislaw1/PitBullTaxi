@@ -8,6 +8,7 @@ import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 
+import styles from "./InfoSection.module.scss"
 // function TabPanel(props) {
 //         const { children, value, index, ...other } = props;
 //
@@ -101,7 +102,8 @@ function InfoSections() {
     })
         return(
             <section>
-                <ul>{murkup}</ul>
+                <h2>Мы поможем вам добраться в любую точку быстро и комфортно</h2>
+                <ul className={styles.listPoint}>{murkup}</ul>
             </section>
         )
 }

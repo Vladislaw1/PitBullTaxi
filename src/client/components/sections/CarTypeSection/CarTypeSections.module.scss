@@ -1,9 +1,20 @@
-.box{
+.box {
   margin: auto;
   width: 400px;
   text-align: center;
 }
-.image{
+
+.image {
   width: 250px;
   height: 250px;
+}
+
+.listTypeCar {
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (min-width: 465px) {
+    flex-direction: row;
+  }
+
 }

@@ -1,0 +1,10 @@
+.listPoint{
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  @media screen and (min-width: 465px){
+    flex-direction: row;
+  }
+}
