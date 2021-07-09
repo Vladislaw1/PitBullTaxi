@@ -4,7 +4,14 @@
   list-style: none;
   padding: 0;
   text-align: center;
+
+  &Item{
+    margin-bottom: 30px;
+  }
   @media screen and (min-width: 768px){
-    flex-direction: row;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
   }
 }

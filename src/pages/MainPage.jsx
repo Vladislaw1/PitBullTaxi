@@ -2,13 +2,13 @@ import React from 'react';
 import Header from "../client/components/Header";
 import Footer from "../client/components/Footer";
 
-import TablePrice from "../client/components/TablePrice";
 import InfoSections from "../client/components/sections/InfoSections";
 
 import Slider from "../shared/components/Slider";
 import CarTypeSection from "../client/components/sections/CarTypeSection";
 
 import styles from "./MainPage.module.scss"
+import PriceSection from "../client/components/sections/PriceSection";
 
 function MainPage(props) {
     return (
@@ -19,7 +19,7 @@ function MainPage(props) {
                 <Slider/>
                 <CarTypeSection/>
                 <InfoSections/>
-                <TablePrice/>
+                <PriceSection/>
             </main>
             <Footer/>
         </>

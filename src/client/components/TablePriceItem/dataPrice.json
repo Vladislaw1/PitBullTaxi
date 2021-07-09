@@ -1,0 +1,67 @@
+[
+  {
+    "head":"Тариф базовый от 175 км",
+    "price":{
+      "day":{
+        "tuda":"",
+        "tudaObratno":""
+      },
+      "night":{
+        "tuda":"",
+        "tudaObratno":""
+      }
+    }
+  },
+  {
+    "head":"Тариф базовый 75-175 км",
+    "price":{
+      "day":{
+        "tuda":"",
+        "tudaObratno":""
+      },
+      "night":{
+        "tuda":"",
+        "tudaObratno":""
+      }
+    }
+  },
+  {
+    "head":"Тариф базовый до 75 км",
+    "price":{
+      "day":{
+        "tuda":"",
+        "tudaObratno":""
+      },
+      "night":{
+        "tuda":"",
+        "tudaObratno":""
+      }
+    }
+  },
+  {
+    "head":"Тариф бездорожье в сухую погоду",
+    "price":{
+      "day":{
+        "tuda":"",
+        "tudaObratno":""
+      },
+      "night":{
+        "tuda":"",
+        "tudaObratno":""
+      }
+    }
+  },
+  {
+    "head":"Тариф бездорожье дождь лёд снег",
+    "price":{
+      "day":{
+        "tuda":"",
+        "tudaObratno":""
+      },
+      "night":{
+        "tuda":"",
+        "tudaObratno":""
+      }
+    }
+  }
+]

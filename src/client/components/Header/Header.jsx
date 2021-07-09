@@ -6,17 +6,21 @@ import ListContact from "../ListContact";
 
 function Header(props) {
     return (
-        <header className={styles.header}>
-            <div>
-                <Logo/>
-            </div>
-            <div>
-                <button>Записаться</button>
-            </div>
-            <div className={styles.contactList}>
-                <ListContact/>
-            </div>
-        </header>
+        <>
+            <header className={styles.topHeader}>
+                <div className={styles.contactList}>
+                    <ListContact/>
+                </div>
+            </header>
+            <header className={styles.header}>
+                <div>
+                    <Logo/>
+                </div>
+                <div>
+                    <button>Записаться</button>
+                </div>
+            </header>
+        </>
     );
 }
 

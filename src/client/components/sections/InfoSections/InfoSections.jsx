@@ -94,7 +94,7 @@ import styles from "./InfoSection.module.scss"
 function InfoSections() {
     const murkup = data.map(el => {
         return(
-            <li>
+            <li className={styles.listPointItem}>
                 <img src={el.img} alt={el.caption} width={"200px"} height={"200px"}/>
                 <h2>{el.caption}</h2>
             </li>

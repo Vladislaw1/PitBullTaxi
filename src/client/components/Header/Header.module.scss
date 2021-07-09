@@ -6,9 +6,16 @@
   background: #282c34;
   padding: 20px;
 }
+.topHeader{
+  display: flex;
+  background: #282c34;
+  justify-content: center;
+  border-bottom: 1px solid goldenrod;
+  padding: 5px 0;
+}
 .contactList{
-  display: none;
-  @media screen and (min-width: 465px){
-    display: block;
-  }
+  //display: none;
+  //@media screen and (min-width: 465px){
+  //  display: block;
+  //}
 }
