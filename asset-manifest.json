@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PitBullTaxi/static/css/main.5086bc98.chunk.css",
-    "main.js": "/PitBullTaxi/static/js/main.d3f4281d.chunk.js",
-    "main.js.map": "/PitBullTaxi/static/js/main.d3f4281d.chunk.js.map",
+    "main.js": "/PitBullTaxi/static/js/main.aa93647f.chunk.js",
+    "main.js.map": "/PitBullTaxi/static/js/main.aa93647f.chunk.js.map",
     "runtime-main.js": "/PitBullTaxi/static/js/runtime-main.334aa625.js",
     "runtime-main.js.map": "/PitBullTaxi/static/js/runtime-main.334aa625.js.map",
     "static/js/2.0930e48d.chunk.js": "/PitBullTaxi/static/js/2.0930e48d.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.334aa625.js",
     "static/js/2.0930e48d.chunk.js",
     "static/css/main.5086bc98.chunk.css",
-    "static/js/main.d3f4281d.chunk.js"
+    "static/js/main.aa93647f.chunk.js"
   ]
 }
