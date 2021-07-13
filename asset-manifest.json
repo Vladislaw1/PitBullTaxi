@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/PitBullTaxi/static/css/main.d896e685.chunk.css",
-    "main.js": "/PitBullTaxi/static/js/main.291ae876.chunk.js",
-    "main.js.map": "/PitBullTaxi/static/js/main.291ae876.chunk.js.map",
+    "main.css": "/PitBullTaxi/static/css/main.8681cd58.chunk.css",
+    "main.js": "/PitBullTaxi/static/js/main.980e13a5.chunk.js",
+    "main.js.map": "/PitBullTaxi/static/js/main.980e13a5.chunk.js.map",
     "runtime-main.js": "/PitBullTaxi/static/js/runtime-main.334aa625.js",
     "runtime-main.js.map": "/PitBullTaxi/static/js/runtime-main.334aa625.js.map",
-    "static/js/2.a54517fb.chunk.js": "/PitBullTaxi/static/js/2.a54517fb.chunk.js",
-    "static/js/2.a54517fb.chunk.js.map": "/PitBullTaxi/static/js/2.a54517fb.chunk.js.map",
+    "static/js/2.581aad1e.chunk.js": "/PitBullTaxi/static/js/2.581aad1e.chunk.js",
+    "static/js/2.581aad1e.chunk.js.map": "/PitBullTaxi/static/js/2.581aad1e.chunk.js.map",
     "index.html": "/PitBullTaxi/index.html",
-    "static/css/main.d896e685.chunk.css.map": "/PitBullTaxi/static/css/main.d896e685.chunk.css.map",
-    "static/js/2.a54517fb.chunk.js.LICENSE.txt": "/PitBullTaxi/static/js/2.a54517fb.chunk.js.LICENSE.txt",
+    "static/css/main.8681cd58.chunk.css.map": "/PitBullTaxi/static/css/main.8681cd58.chunk.css.map",
+    "static/js/2.581aad1e.chunk.js.LICENSE.txt": "/PitBullTaxi/static/js/2.581aad1e.chunk.js.LICENSE.txt",
     "static/media/call.876d966f.svg": "/PitBullTaxi/static/media/call.876d966f.svg",
     "static/media/city.41024a85.png": "/PitBullTaxi/static/media/city.41024a85.png",
     "static/media/curort.d9c9ffcb.png": "/PitBullTaxi/static/media/curort.d9c9ffcb.png",
+    "static/media/gmail.ff8af2b7.svg": "/PitBullTaxi/static/media/gmail.ff8af2b7.svg",
     "static/media/granica.e455a34b.png": "/PitBullTaxi/static/media/granica.e455a34b.png",
     "static/media/hero_bg.f806ae2e.jpg": "/PitBullTaxi/static/media/hero_bg.f806ae2e.jpg",
     "static/media/instagram.6671d916.svg": "/PitBullTaxi/static/media/instagram.6671d916.svg",
@@ -29,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.334aa625.js",
-    "static/js/2.a54517fb.chunk.js",
-    "static/css/main.d896e685.chunk.css",
-    "static/js/main.291ae876.chunk.js"
+    "static/js/2.581aad1e.chunk.js",
+    "static/css/main.8681cd58.chunk.css",
+    "static/js/main.980e13a5.chunk.js"
   ]
 }
